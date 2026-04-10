@@ -32,7 +32,8 @@ helm repo index --url https://github.com/nholuongut/helmchart/ --merge index.yam
 * [Linkedin](https://www.linkedin.com/in/nholuong/)
 * [Email Address](luongutnho@hotmail.com)
 * [PayPal.me](https://www.paypal.com/paypalme/nholuongut)
-* (https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nholuong)
+  
+  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nholuong)
 
 # License
 * Nho Luong (c). All Rights Reserved.🌟
